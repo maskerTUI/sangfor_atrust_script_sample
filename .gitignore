@@ -1,0 +1,23 @@
+# 敏感配置文件
+config.py
+config.example.py
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
