@@ -150,8 +150,7 @@ python query_group_by_path.py /外部组织
 
 ## 参考资料
 
-- [深信服零信任 OpenAPI 文档](https://your-atrust-server:4433)
-- [官方 API 示例](https://github.com/sangfor-openapi)
+- [官方OpenAPI 文档](https://bbs.sangfor.com.cn/atrustdeveloper/openapiV3/)
 
 ## 贡献
 
@@ -163,4 +162,5 @@ MIT License
 
 ---
 
-**注意**: 本脚本由社区维护，与深信服官方无关。使用风险自负。
+**注意**: 本脚本由我维护，与深信服官方无关。使用风险自负。
+          本文档由AI自动生成，不能保证完全正确，请使用者自行鉴别调整。
